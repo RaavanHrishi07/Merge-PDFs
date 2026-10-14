@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+mergedPdf.pdf
+mergedPdf1.pdf
